@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello Hello!!! 👋
+I am Genry. I am a student. 
+I want to be a game developer one day so I am currently learning *C Sharp, 3D Modeling, 2D Drawing* and stuff like that for game developing.
+I hope I will update this `README.md` as I learn new things or some important stuff happens in my life.
+Until next time. `See you from 11/12/2024...`
 
 <!--
 **Genry74/Genry74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
